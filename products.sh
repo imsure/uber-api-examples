@@ -17,3 +17,8 @@ curl -H "Authorization: Token ${token}" \
      -H "Accept-Language: en_US" \
      'https://api.uber.com/v1.2/products?latitude=32.23176&longitude=-110.95664' \
     | jq '.'
+
+curl -H "Authorization: Token ${token}" \
+     -H "Content-Type: application/json" \
+     -H "Accept-Language: en_US" \
+     'https://api.uber.com/v1.2/products?latitude=32.23176&longitude=-110.95664'

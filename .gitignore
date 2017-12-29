@@ -3,3 +3,5 @@ uber.conf
 \#*
 .DS_Store
 __pycache__
+.idea/
+.ropeproject/
