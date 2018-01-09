@@ -1,0 +1,99 @@
+{
+  "times": [
+    {
+      "product_id": "57c0ff4e-1493-4ef9-a4df-6b961525cf92",
+      "display_name": "SELECT",
+      "estimate": 120,
+      "localized_display_name": "SELECT"
+    },
+    {
+      "product_id": "821415d8-3bd5-4e27-9604-194e4359a449",
+      "display_name": "uberXL",
+      "estimate": 60,
+      "localized_display_name": "uberXL"
+    },
+    {
+      "product_id": "d4abaae7-f4d6-4152-91cc-77523e8165a4",
+      "display_name": "BLACK",
+      "estimate": 240,
+      "localized_display_name": "BLACK"
+    },
+    {
+      "product_id": "8920cb5e-51a4-4fa4-acdf-dd86c5e18ae0",
+      "display_name": "SUV",
+      "estimate": 240,
+      "localized_display_name": "SUV"
+    },
+    {
+      "product_id": "ff5ed8fe-6585-4803-be13-3ca541235de3",
+      "display_name": "ASSIST",
+      "estimate": 120,
+      "localized_display_name": "ASSIST"
+    },
+    {
+      "product_id": "2832a1f5-cfc0-48bb-ab76-7ea7a62060e7",
+      "display_name": "WAV",
+      "estimate": 960,
+      "localized_display_name": "WAV"
+    },
+    {
+      "product_id": "26546650-e557-4a7b-86e7-6a3942445247",
+      "display_name": "POOL",
+      "estimate": 60,
+      "localized_display_name": "POOL"
+    },
+    {
+      "product_id": "a1111c8c-c720-46c3-8534-2fcdd730040d",
+      "display_name": "uberX",
+      "estimate": 60,
+      "localized_display_name": "uberX"
+    },
+    {
+      "product_id": "3ab64887-4842-4c8e-9780-ccecd3a0391d",
+      "display_name": "TAXI",
+      "estimate": 420,
+      "localized_display_name": "TAXI"
+    }
+  ]
+}
+{
+  "times": [
+    {
+      "product_id": "85bbf2e4-fdf0-476d-beb4-b69022994ed3",
+      "display_name": "uberX",
+      "estimate": 300,
+      "localized_display_name": "uberX"
+    },
+    {
+      "product_id": "7934ca08-69dd-48aa-b35f-4fcc70fd2487",
+      "display_name": "uberXL",
+      "estimate": 300,
+      "localized_display_name": "uberXL"
+    },
+    {
+      "product_id": "c21849a5-8d14-4932-bf10-0335ae8cc59a",
+      "display_name": "uberX",
+      "estimate": 360,
+      "localized_display_name": "uberX"
+    },
+    {
+      "product_id": "569c6ddf-813d-4899-aab3-b89e31fd1ba1",
+      "display_name": "uberSELECT",
+      "estimate": 600,
+      "localized_display_name": "uberSELECT"
+    }
+  ]
+}
+{
+  "times": [
+    {
+      "product_id": "85bbf2e4-fdf0-476d-beb4-b69022994ed3",
+      "display_name": "uberX",
+      "estimate": 300,
+      "localized_display_name": "uberX"
+    }
+  ]
+}
+{
+  "times": []
+}
